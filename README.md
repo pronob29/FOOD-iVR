@@ -9,9 +9,11 @@ This repository contains the code, data, and analysis related to the project "Ex
 
 In this project, we conducted a secondary analysis on a multimodal dataset collected from 10 participants during a multi-phase iVR experiment. The experiment included various phases designed to elicit different cognitive and affective states, such as rest, effortful control, stress induction, and decision-making in a virtual buffet environment.
 
-### Key aspects of the project include:
+Key aspects of the project include:
 
 Model Design Exploration: Investigated the impact of different model design choices, such as modality, feature set, and personalization, on the accuracy of inverse inference models that map neuro-physiological signals to cognitive and affective states.
+
 Machine Learning Evaluation: Applied machine learning techniques to assess the ability of models to discriminate between different iVR phases.
+
 Between-Person Variation: Used non-linear manifold embedding methods to analyze individual differences, emphasizing the need for adaptive models tailored to personal characteristics.
 
